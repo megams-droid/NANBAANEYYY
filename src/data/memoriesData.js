@@ -157,6 +157,30 @@ export const SPOTIFY_TRACKS = [
     subtitle: "Heart-to-heart moments under the evening sky.",
     caption: "Song that feels like a warm hug on a tough day.",
     tag: "Warm Comfort"
+  },
+  {
+    id: "7",
+    spotifyId: "60Iqxyuic0P76dbn4O8uTS",
+    title: "Track 07 — Yealae Yealae Dosthu Da",
+    subtitle: "The ultimate friendship anthem by Harris Jayaraj.",
+    caption: "Dedicated to our unbreakable friendship and endless memories.",
+    tag: "Dosthu Anthem"
+  },
+  {
+    id: "8",
+    spotifyId: "4JFclFrx26YDUNlRIYLWsc",
+    title: "Track 08 — Text Message (Instrumental)",
+    subtitle: "Soulful BGM from Thiruchitrambalam by Anirudh.",
+    caption: "The sound of quiet late-night text chats & wholesome comfort.",
+    tag: "Charming BGM"
+  },
+  {
+    id: "9",
+    spotifyId: "6TQS7URegxmcb8tTNpoXzi",
+    title: "Track 09 — Megham Karukatha",
+    subtitle: "Pure joy & rainy day dance vibe by Dhanush & Anirudh.",
+    caption: "Song that brings back dancing in the rain and carefree laughter.",
+    tag: "Rainy Vibe"
   }
 ];
 
