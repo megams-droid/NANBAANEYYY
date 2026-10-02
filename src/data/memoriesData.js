@@ -157,14 +157,6 @@ export const SPOTIFY_TRACKS = [
     subtitle: "Heart-to-heart moments under the evening sky.",
     caption: "Song that feels like a warm hug on a tough day.",
     tag: "Warm Comfort"
-  },
-  {
-    id: "7",
-    spotifyId: "5cfKBuE5XKtlaNOVjQwA9H",
-    title: "Track 07 — The Forever Anthem",
-    subtitle: "Dedicated to all the unwritten memories ahead.",
-    caption: "Our official friendship theme song.",
-    tag: "Forever Track"
   }
 ];
 
